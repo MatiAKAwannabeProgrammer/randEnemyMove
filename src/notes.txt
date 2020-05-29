@@ -1,0 +1,5 @@
+I need to create a random number between 100-400
+for both the X and Y axis seperately.
+
+I will call to this function every second, in a similar way to the 
+enemy spawn function.
